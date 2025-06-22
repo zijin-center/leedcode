@@ -72,3 +72,5 @@ var twoSum2 = function (nums, target) {
 };
 
 console.log(twoSum2(nums, target)); // [ 0, 1 ]
+// 时间复杂度：O(n)
+// 空间复杂度：O(n)
